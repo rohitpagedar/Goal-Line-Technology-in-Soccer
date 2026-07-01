@@ -1,0 +1,18 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.slxc
+*.mex*
+
+# Generated media and output folders
+goal.avi
+images/
+*.avi
+*.mp4
+*.mov
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
